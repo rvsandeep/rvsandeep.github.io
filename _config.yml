@@ -49,6 +49,9 @@ assets:
 
     assets:
       -"*.jpg"
+
+google_analytics_tracking_id: UA-177853030-1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
