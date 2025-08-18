@@ -46,9 +46,8 @@ compress_html:
 assets:
   compress:
     css: true
-
-    assets:
-      -"*.jpg"
+  assets:
+    - "*.jpg"
 
 google_analytics_tracking_id: UA-177853030-1
 
